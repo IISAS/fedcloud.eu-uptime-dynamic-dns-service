@@ -20,7 +20,7 @@ status-website:
   cname: uptime.fedcloud.eu
   # Uncomment the following line if you don't have a custom domain and add your repo name
   #baseUrl: /uptime-dynamic-dns-service
-  logoUrl: http://ups.savba.sk/pict/logo/logoangl767.gif
+  logoUrl: https://www.ui.sav.sk/w/wp-content/uploads/ui_logo_mensi_biely_okraj.jpg
   name: IISAS web monitoring
   introTitle: "Monitoring web services at IISAS"
   introMessage: This is public monitoring of web services at IISAS 
