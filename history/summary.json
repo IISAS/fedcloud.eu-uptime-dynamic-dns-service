@@ -4,7 +4,7 @@
     "url": "https://nsupdate.fedcloud.eu",
     "icon": "https://favicons.githubusercontent.com/nsupdate.fedcloud.eu",
     "slug": "dynamic-dns-service",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -13,7 +13,7 @@
     "time": 964,
     "timeDay": 1039,
     "timeWeek": 1014,
-    "timeMonth": 1073,
+    "timeMonth": 945,
     "timeYear": 964,
     "dailyMinutesDown": {}
   },
