@@ -11,7 +11,7 @@ sites:
   - name: DSpace testing repository
     url: http://dspace-iisas.repository.fedcloud.eu:8080/xmlui/
   - name: Dataverse testing repository
-    url: http://dataverse-iisas.repository.fedcloud.eu:8080/
+    url: https://dataverse-iisas.repository.fedcloud.eu/
   - name: IISAS Horizon dashboard
     url: https://horizon.ui.savba.sk/
 
