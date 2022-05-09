@@ -76,17 +76,17 @@
     "url": "https://horizon.ui.savba.sk/",
     "icon": "https://favicons.githubusercontent.com/horizon.ui.savba.sk",
     "slug": "iisas-horizon-dashboard",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 822,
-    "timeDay": 710,
-    "timeWeek": 705,
-    "timeMonth": 831,
-    "timeYear": 821,
+    "timeDay": 883,
+    "timeWeek": 749,
+    "timeMonth": 838,
+    "timeYear": 822,
     "dailyMinutesDown": {}
   }
 ]
